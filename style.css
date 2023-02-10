@@ -35,17 +35,20 @@
  }
  h1{
     color: var(--color-Dark-blue);
-    font-size: 1.375rem;
+    font-size: 0.9375rem;
     line-height: 1.275;
-    margin-top: 1.1em;
+    margin: 1.1em;
+   text-align: center;
 
 
  }
  p{
     color: var(--color-blue);
     line-height: 1.3;
-    margin-top: 1.075em;
-
+    margin: 1.1em;
+     opacity: 0.5;
+   font-size: 0.9375rem;
+   text-align: center;
  }
 
 main{
